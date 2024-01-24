@@ -16,7 +16,7 @@ const YearsStat = ({ year, onClick }) => {
     <div className="fl w-100-l pb5 pr5-l">
       <section className="pb4" style={{ paddingBottom: '0rem' }}>
         <p style={{ lineHeight: 1.8}}>
-          强风迎面吹护拂，<br/>
+          强风迎面吹拂，<br/>
           逆风奔跑前进，<br/>
           坚信答案就在前方，<br/>
           何为强大，<br/>
