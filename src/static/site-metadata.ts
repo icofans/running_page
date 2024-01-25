@@ -11,7 +11,7 @@ interface ISiteMetadataResult {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Running Page',
-  siteUrl: 'https://yihong.run',
+  siteUrl: 'https://icofans.github.io/running_page',
   logo: 'https://avatars.githubusercontent.com/u/13825591?v=4',
   description: 'Personal site and blog',
   navLinks: [
