@@ -10,7 +10,7 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Running Page',
+  siteTitle: '浪浪山小妖 在跑步',
   siteUrl: 'https://icofans.github.io/running_page',
   logo: 'https://avatars.githubusercontent.com/u/13825591?v=4',
   description: 'Personal site and blog',

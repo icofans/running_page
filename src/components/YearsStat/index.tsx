@@ -31,10 +31,6 @@ const YearsStat = ({ year, onClick }: { year: string, onClick: (_year: string) =
           直到永恒。<br/>
         </p>
         <p style={quoteStyle}>&ndash;&ndash;《强风吹拂》</p>
-        <p className="leading-relaxed">
-          {INFO_MESSAGE(years.length, year)}
-          <br />
-        </p>
       </section>
       <hr color="red" />
       {yearsArrayUpdate.map((year) => (
